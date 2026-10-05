@@ -9,8 +9,8 @@ Static first version of the Ruvem public landing page.
 ## Free hosting
 You can deploy this unchanged to GitHub Pages, Cloudflare Pages, or Vercel.
 
-## Before publishing
-Replace the temporary contact note with the final email address or contact form.
+## Contact
+Early access, pilot and partnership conversations: [hello.ruvem@gmail.com](mailto:hello.ruvem@gmail.com).
 
 ## Later
 When ruvem.ai is purchased, connect that custom domain to the same deployment.
